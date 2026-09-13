@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everyone
 - 😄 Pronouns: calm
 - ⚡ Fun fact: 
--->
+--> hello. I've been learning GitHub recently, and I'm really enjoying it
