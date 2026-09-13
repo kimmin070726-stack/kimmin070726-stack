@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is MinGyeong!
 
 <!--
 **kimmin070726-stack/kimmin070726-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
